@@ -1,0 +1,7 @@
+Chat\ChatServer.class
+Chat\Connection.class
+Chat\ChatClient.class
+Chat\In.class
+Chat\ConnectionListener.class
+Chat\ChatClient$1.class
+Chat\Out.class
